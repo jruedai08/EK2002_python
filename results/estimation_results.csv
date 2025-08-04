@@ -1,0 +1,51 @@
+,Variables,est.,std.
+0,dist1,-0.07,0.34
+1,dist2,-2.79,0.44
+2,dist3,-3.75,0.37
+3,dist4,-3.96,0.4
+4,dist5,-5.24,0.29
+5,dist6,-5.97,0.11
+6,border,-0.74,0.45
+7,common_language,0.01,0.36
+8,both_in_EU,0.93,0.66
+9,both_in_EFTA,-0.21,0.67
+10,Source country: USA,2.33,0.26
+11,Source country: CHN,2.65,0.26
+12,Source country: DEU,0.64,0.27
+13,Source country: JPN,0.75,0.26
+14,Source country: IND,0.67,0.27
+15,Source country: GBR,-0.23,0.33
+16,Source country: FRA,-0.2,0.28
+17,Source country: ITA,-0.06,0.27
+18,Source country: BRA,0.21,0.26
+19,Source country: CAN,-0.04,0.27
+20,Source country: MEX,-0.39,0.26
+21,Source country: AUS,-0.14,0.26
+22,Source country: KOR,-0.18,0.26
+23,Source country: ESP,-0.64,0.27
+24,Source country: IDN,-0.22,0.27
+25,Source country: NLD,-0.82,0.27
+26,Source country: TUR,-1.19,0.3
+27,Source country: SAU,-0.76,0.28
+28,Source country: CHE,-0.49,0.27
+29,Source country: POL,-1.91,0.27
+30,Destination country: USA,2.24,0.5
+31,Destination country: CHN,2.5,0.5
+32,Destination country: DEU,0.37,0.52
+33,Destination country: JPN,0.64,0.49
+34,Destination country: IND,0.92,0.51
+35,Destination country: GBR,-0.51,0.63
+36,Destination country: FRA,-0.76,0.53
+37,Destination country: ITA,-0.35,0.52
+38,Destination country: BRA,0.19,0.5
+39,Destination country: CAN,0.33,0.51
+40,Destination country: MEX,-0.01,0.49
+41,Destination country: AUS,0.09,0.5
+42,Destination country: KOR,-0.28,0.5
+43,Destination country: ESP,-0.66,0.52
+44,Destination country: IDN,-0.47,0.5
+45,Destination country: NLD,-0.12,0.52
+46,Destination country: TUR,-1.12,0.57
+47,Destination country: SAU,-0.38,0.53
+48,Destination country: CHE,0.05,0.52
+49,Destination country: POL,-2.68,0.52
